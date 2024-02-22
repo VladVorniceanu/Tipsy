@@ -36,10 +36,13 @@ class CalculatorViewController: UIViewController {
     }
 
     @IBAction func stepperClicked(_ sender: UIStepper) {
+        billTotalInputField.endEditing(true)
         splitNoLabel.text = String(format: "%.0f",sender.value)
     }
     
     @IBAction func tipSelected(_ sender: UIButton) {
+        billTotalInputField.endEditing(true)
+
         setTipButton()
         sender.isSelected = true
         

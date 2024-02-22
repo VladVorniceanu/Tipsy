@@ -19,7 +19,7 @@ class ResultsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        splitValueLabel.text = String(format:"%.2f", splitValue!)
+        splitValueLabel.text = String(format:"%.2f RON", splitValue!)
         splitFinalInterpretationLabel.text = "The shown value represents the total amount, split to \(Int(noOfSplits!)) people, with a \(tipPercentageValue!)% tip."
         
         // Do any additional setup after loading the view.

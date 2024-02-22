@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "f3d9161daf75ef51ace58ea4c388523855b0832414ac6388e39a125c30f5a79c"
+build_start_time: [1708620509, 456361000]
+build_end_time: [1708620515, 49183000]
+inputs:
+  ? "/Users/vladvorniceanu/Development/Tipsy/DerivedData/Tipsy/Build/Intermediates.noindex/Tipsy.build/Release-iphonesimulator/Tipsy.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1708620509, 321907517]
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/AppDelegate.swift": [1568008342, 0]
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/Controllers/CalculatorViewController.swift": [1708620154, 520451838]
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/Controllers/ResultsViewController.swift": [1708620321, 302384291]
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/Models/Bill.swift": [1708616642, 567832248]
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/Models/CalculatorBrain.swift": [1708619759, 800003276]
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/SceneDelegate.swift": [1568008342, 0]
