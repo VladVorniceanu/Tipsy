@@ -1,0 +1,24 @@
+{
+  "" : {
+    "dependencies" : "/Users/vladvorniceanu/Development/Tipsy/DerivedData/Tipsy/Index.noindex/Build/Intermediates.noindex/Tipsy.build/Debug-iphonesimulator/Tipsy.build/Objects-normal/arm64/Tipsy-master.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Tipsy/DerivedData/Tipsy/Index.noindex/Build/Intermediates.noindex/Tipsy.build/Debug-iphonesimulator/Tipsy.build/Objects-normal/arm64/Tipsy-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/Tipsy/DerivedData/Tipsy/Index.noindex/Build/Intermediates.noindex/Tipsy.build/Debug-iphonesimulator/Tipsy.build/Objects-normal/arm64/Tipsy-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/Tipsy/DerivedData/Tipsy/Index.noindex/Build/Intermediates.noindex/Tipsy.build/Debug-iphonesimulator/Tipsy.build/Objects-normal/arm64/Tipsy-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Tipsy/DerivedData/Tipsy/Index.noindex/Build/Intermediates.noindex/Tipsy.build/Debug-iphonesimulator/Tipsy.build/Objects-normal/arm64/Tipsy-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/Tipsy/DerivedData/Tipsy/Index.noindex/Build/Intermediates.noindex/Tipsy.build/Debug-iphonesimulator/Tipsy.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/AppDelegate.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/Controllers/ResultsViewController.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/Controllers/ViewController.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/Tipsy/Tipsy/SceneDelegate.swift" : {
+
+  }
+}
